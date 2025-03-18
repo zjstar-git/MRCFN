@@ -12,7 +12,7 @@ CUDA: 11.2
 
 ## Required Dependencies
 Install the required dependencies for the model via requirements.txt:
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 ## Data preparation
 Microseismic physical metrics: index_data.py
