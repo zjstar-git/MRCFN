@@ -5,19 +5,21 @@ This code implements a multimodal response complementary fusion (MRCFN) microsei
 ## Environment
 This code was developed and tested in the following environment:
 
-Python: 3.9
-Keras: 2.2(2.0 or later versions are recommended)
-Tensorflow: 2.6.0
-CUDA: 11.2
+Python: 3.9<br>
+Keras: 2.2(2.0 or later versions are recommended)<br>
+Tensorflow: 2.6.0<br>
+CUDA: 11.2<br>
 
 ## Required Dependencies
 Install the required dependencies for the model via requirements.txt:
-'''pip install -r requirements.txt'''
+```python
+pip install -r requirements.txt
+```
 
 ## Data preparation
-Microseismic physical metrics: index_data.py
-Output: create_data.py
-Model main program: main.py
+Microseismic physical metrics: index_data.py <br>
+Output: create_data.py<br>
+Model main program: main.py<br>
 
 
 ## License
