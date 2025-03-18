@@ -6,7 +6,7 @@ This code implements a multimodal response complementary fusion (MRCFN) microsei
 This code was developed and tested in the following environment:
 
 Python: 3.9<br>
-Keras: 2.2(2.0 or later versions are recommended)<br>
+Keras: 2.6.0<br>
 Tensorflow: 2.6.0<br>
 CUDA: 11.2<br>
 
